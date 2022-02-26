@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SalaryManage:war">
+    <output-path>$PROJECT_DIR$/SalaryManage/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SalaryManage</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SalaryManage.war">
+      <element id="artifact" artifact-name="SalaryManage:war exploded" />
+    </root>
+  </artifact>
+</component>
