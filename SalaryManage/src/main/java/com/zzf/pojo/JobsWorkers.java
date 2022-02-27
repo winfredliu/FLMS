@@ -5,6 +5,7 @@ import java.util.List;
 //员工职位类，用于嵌套查询
 public class JobsWorkers {
 
+
 	private String wno;// 工号
 	private String wname;// 姓名
 	private List<Jobs> jobslist;// 职位List

@@ -210,10 +210,15 @@ public class UserController {
 		String jno = wj.getJno();
 		List<Jobs> jobsByJno = jobService.findJobsByJno(jno);
 		String jname = jobsByJno.get(0).getJname();
-		if(jname.contains("经理")){
+		String jdept = jobsByJno.get(0).getJdept();
+		if(jname.contains("经理")||jname.contains("董事长")){
 			user.setAuthority("公司高层");
-		}else if(jname.contains("会计")){
+		}else if(jdept.contains("财务部")){
 			user.setAuthority("财务");
+		}else if(jname.contains("信息化专员")){
+			user.setAuthority("系统管理员");
+		}else{
+			user.setAuthority("普通员工");
 		}
 		userService.insertUser(user);
 		model.addAttribute("msg", "注册成功,请登录");

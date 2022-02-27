@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="SalaryManage" target="8" />
+      <module name="SalaryManage" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
