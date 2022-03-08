@@ -12,7 +12,7 @@ import java.util.Random;
 /*
  *
  *@author:flms
- *@time:2020-12-14
+ *@time:2022-2-28
  *
  */
 public class ValidateCode {
