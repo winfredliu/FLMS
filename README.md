@@ -14,6 +14,8 @@
 
 开发工具：IDEA+Maven+Tomcat
 
+项目编码：GBK
+
 技术栈：
 
 - 后端：Spring+SpringMVC+Mybatis+MySQL
@@ -180,3 +182,11 @@ jbonus: 每月奖金
 ```
 
 嗯，是不是相当简单呢？理论上可以再划分更多的级别。
+
+## 解决tomcat server信息输出乱码
+
+1. 打开Run/Debug Configuration,选择你的tomcat
+
+2. 然后在 Server > VM options 设置为 `-Dfile.encoding=UTF-8` ，重启tomcat
+
+3. 打开idea的help->Edit Custom VM OPtions,末尾加上`-Dfile.encoding=UTF-8`
