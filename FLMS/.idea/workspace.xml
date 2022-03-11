@@ -9,10 +9,108 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d225196-2466-4eb8-930b-a193e17343a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="6d225196-2466-4eb8-930b-a193e17343a6" name="Default Changelist" comment="modified">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/04484b13-dd9a-41be-894a-99cc6a5c8113.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/04484b13-dd9a-41be-894a-99cc6a5c8113/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/04484b13-dd9a-41be-894a-99cc6a5c8113/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/04484b13-dd9a-41be-894a-99cc6a5c8113/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/04484b13-dd9a-41be-894a-99cc6a5c8113/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/META-INF/SalaryManage.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/Util/ValidateCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/controller/JobsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/controller/JobsWorkersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/controller/WSalaryController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/controller/WSalaryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/controller/WorkersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/dao/JobsDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/dao/JobsWorkersDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/dao/WJDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/dao/WSalaryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/dao/WorkersDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/interceptor/LoginInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/pojo/Jobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/pojo/JobsWorkers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/pojo/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/pojo/WSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/pojo/Wj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/pojo/Workers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/JobService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/JobsWorkerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/WSalaryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/WjService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/WorkerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/impl/JobServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/impl/JobsWorkerServiceimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/impl/WSalaryServiceimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/impl/WjServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/com/flms/service/impl/WokerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/config/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/config/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/config/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/config/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/config/springmvc-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/mapper/JobsDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/mapper/JobsWorkersDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/mapper/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/mapper/WJDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/mapper/WSalaryDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/classes/mapper/WorkersDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/JobsWorkers/jobsWorkerslist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/WSalarys/MySalaryslist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/WSalarys/Settlement.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/WSalarys/WSalaryslist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/changePassword.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/customer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/employee.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/jobs/jobslist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/leader.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/myinfo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/users/userslist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/jsp/workers/workerslist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/aspectjweaver-1.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/commons-codec-1.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/commons-collections4-4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/commons-dbcp2-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/commons-pool2-2.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/fastjson-1.2.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/jsqlparser-2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/log4j-1.2.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/lombok-1.18.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/mybatis-3.4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/mybatis-spring-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/pagehelper-5.1.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/poi-3.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/protobuf-java-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/slf4j-api-1.6.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/slf4j-log4j12-1.6.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-aop-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-aspects-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-context-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-expression-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-jcl-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-jdbc-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-test-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-tx-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-web-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/lib/spring-webmvc-5.2.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SalaryManage/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +191,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="last_opened_file_path" value="E:/CRUD" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -267,7 +365,9 @@
       <workItem from="1615646782969" duration="7633000" />
       <workItem from="1615689962611" duration="26332000" />
       <workItem from="1646706577388" duration="1510000" />
-      <workItem from="1646709217369" duration="2343000" />
+      <workItem from="1646709217369" duration="3453000" />
+      <workItem from="1646890287883" duration="4352000" />
+      <workItem from="1646977324107" duration="808000" />
     </task>
     <task id="LOCAL-00001" summary="modified">
       <created>1646709537040</created>
@@ -276,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646709537041</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modified">
+      <created>1646714227315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646714227315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
